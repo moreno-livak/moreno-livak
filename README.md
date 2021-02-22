@@ -6,7 +6,7 @@ Hey there, I'm Moreno. Student by day and app developer by night.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Student @tulla Realschule Karlsruhe
+- 🎓 &nbsp; Student @Tulla Realschule Karlsruhe
 
 
 <h3>🛠 Tech Stack</h3>
